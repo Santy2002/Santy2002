@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Santy2002
+- 👋 Hi, I’m Santi!
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning .NET
