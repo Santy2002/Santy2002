@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Santi!
-- 👀 I’m interested in Software Development
+- 👀 I’m currently learning Software Development
 - 🌱 I’m currently learning .NET
