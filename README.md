@@ -2,9 +2,9 @@
 <h3 align="center">A passionate backend developer from Argentina 🇦🇷</h3>
 
 <div class="flex">
-  <div style="width: 100px;height: 50px">
-    ![monkey-dumb (1)](https://github.com/Santy2002/Santy2002/assets/68237173/226168d0-6ccf-4efc-9cfe-c4bbad316546)
-  </div>
+  <div class="tenor-gif-embed" data-postid="21557701" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
+    <a href="https://tenor.com/view/monkey-dumb-gif-21557701">Monkey Dumb GIF</a>
+    <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   <div>
   - 🔭 I’m currently working on **Myself**
   
