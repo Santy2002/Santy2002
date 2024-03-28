@@ -12,7 +12,7 @@
 ###
 
 
-<p class="center">![monkey-dumb (1)](https://github.com/Santy2002/Santy2002/assets/68237173/226168d0-6ccf-4efc-9cfe-c4bbad316546)</p>
+![monkey-dumb (1)](https://github.com/Santy2002/Santy2002/assets/68237173/226168d0-6ccf-4efc-9cfe-c4bbad316546)
 
 
 ###
