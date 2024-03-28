@@ -11,7 +11,10 @@
 
 ###
 
-<p class="center"> <a href="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023"></a> </p>
+
+![monkey-dumb](https://github.com/Santy2002/Santy2002/assets/68237173/deddabb7-f6ff-4f2c-b048-07aaede1a2fd)
+
+
 
 ###
 
