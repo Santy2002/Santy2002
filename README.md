@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/bbLYF.gif"  />
+  <img src="https://tenor.com/bbLYF.gif" alt="Ejemplo de GIF">
 </div>
 
 ###
