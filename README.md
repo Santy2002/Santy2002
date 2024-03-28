@@ -3,7 +3,7 @@
 
 <div class="flex">
   <div class="tenor-gif-embed" data-postid="21557701" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
-    <a href="https://tenor.com/view/monkey-dumb-gif-21557701">Monkey Dumb GIF</a>
+    <img href="https://tenor.com/view/monkey-dumb-gif-21557701"/>
     <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   </div>
   <div>
