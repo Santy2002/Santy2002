@@ -9,11 +9,11 @@
 
 - ⚡ Fun fact **I procrastinate a lot**
 
-<p align="left">Hello World!!</p>
-
 ###
 
-<img src="https://raw.githubusercontent.com/santy2002/santy2002/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://tenor.com/bbLYF.gif"  />
+</div>
 
 ###
 
