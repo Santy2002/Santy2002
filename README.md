@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm L3SPA!</h1>
 <h3 align="center">A passionate backend developer from Argentina 🇦🇷</h3>
 
-<div class="flex">
-  <div class="tenor-gif-embed" data-postid="21557701" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
-    <img href="https://tenor.com/view/monkey-dumb-gif-21557701"/>
-    <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-  </div>
-  <div>
   - 🔭 I’m currently working on **Myself**
   
   - 🌱 I’m currently learning **NestJS with Angular!**
@@ -14,8 +8,9 @@
   - 💬 Ask me about **.NET Core, Entity, SQL Server and Lord of the Rings Lore 🧙🏻‍♂️**
   
   - ⚡ Fun fact **I procrastinate a lot**
-  </div>  
-</div>
+
+
+![monkey-dumb (1)](https://github.com/Santy2002/Santy2002/assets/68237173/a23510ce-e802-47f7-a593-dea1cff7a7d9)
 
 
 <h3 align="left">Languages and Tools:</h3>
