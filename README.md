@@ -11,9 +11,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://tenor.com/bbLYF.gif" alt="Ejemplo de GIF">
-</div>
+<div align="center"> <img src="https://tenor.com/bbLYF.gif" alt="Ejemplo de GIF"> </div>
 
 ###
 
