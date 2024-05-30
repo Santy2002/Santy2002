@@ -5,7 +5,7 @@
   
   - 🌱 I’m currently learning **NestJS with Angular!**
   
-  - 💬 Ask me about **.NET Core, Entity, SQL Server and Lord of the Rings Lore 🧙🏻‍♂️**
+  - 💬 Ask me about **.NET Core, SQL Server and Lord of the Rings Lore 🧙🏻‍♂️**
   
   - ⚡ Fun fact **I procrastinate a lot**
 
