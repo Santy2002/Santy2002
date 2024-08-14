@@ -3,7 +3,7 @@
 
   - 🔭 I’m currently working on **Myself**
   
-  - 🌱 I’m currently learning **NestJS with Angular!**
+  - 🌱 I’m currently learning **.NET8, Entity Framework and Angular!**
   
   - 💬 Ask me about **.NET Core, SQL Server and Lord of the Rings Lore 🧙🏻‍♂️**
   
